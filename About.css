@@ -1,0 +1,18 @@
+*{
+   background-color: bisque;
+   line-height:1.9;
+
+    
+
+}
+h2{
+    margin: 150px 5px 15px 10px;
+    text-align: center;
+}
+.col-2{
+ 
+    margin: 50px 5px 15px 300px;
+       
+    justify-content: center;
+    
+ }
